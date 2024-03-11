@@ -1,0 +1,17 @@
+# .gitignore
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
